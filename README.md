@@ -2,6 +2,6 @@
 
 # Технологии:
 
-- **ReactJS 18**
+- **React**
 - **TypeScript**
 - **Redux Toolkit**
