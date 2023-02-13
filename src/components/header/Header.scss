@@ -1,0 +1,11 @@
+.header {
+  position: relative;
+  display: flex;
+  margin-top: 32px;
+  justify-content: space-around;
+
+  &--section {
+    display: flex;
+    gap: 40px;
+  }
+}
